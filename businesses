@@ -6,10 +6,16 @@
       "name": "Your Gym",
       "open-hour": "9AM-1AM"
     },
-        {
+    {
       "type": "gym",
       "location": "123,231212",
       "name": "My Gym",
+      "open-hour": "9AM-1AM"
+    },
+    {
+      "type": "gym",
+      "location": "144,244412",
+      "name": "His Gym",
       "open-hour": "9AM-1AM"
     }
   ]
