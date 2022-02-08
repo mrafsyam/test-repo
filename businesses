@@ -1,0 +1,16 @@
+{
+  "businesses": [
+    {
+      "type": "gym",
+      "location": "121,121212",
+      "name": "Your Gym",
+      "open-hour": "9AM-1AM"
+    },
+        {
+      "type": "gym",
+      "location": "123,231212",
+      "name": "My Gym",
+      "open-hour": "9AM-1AM"
+    }
+  ]
+}
