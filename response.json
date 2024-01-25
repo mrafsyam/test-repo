@@ -1,0 +1,54 @@
+{
+  "announcements": [
+    {
+      "title": "New Branch Opening",
+      "summary": "Announcing the opening of our new branch in Kuala Lumpur.",
+      "publishedDate": "2024-01-20",
+      "postedBy": "Corporate Communications",
+      "content": "We are excited to announce the opening of our new branch in Kuala Lumpur, which will be operational from February 2024. This expansion is a part of our commitment to providing better services to our customers in Malaysia.",
+      "image": "new_branch.jpg",
+      "htmlText": "<p>We are <strong>excited</strong> to announce the opening of our <em>new branch</em> in Kuala Lumpur, which will be operational from <u>February 2024</u>.</p>",
+      "refId": "ANN001"
+    },
+    {
+      "title": "Annual General Meeting 2024",
+      "summary": "Invitation to the 2024 AGM.",
+      "publishedDate": "2024-01-15",
+      "postedBy": "Board of Directors",
+      "content": "All shareholders are invited to the Annual General Meeting (AGM) for the year 2024, which will be held on 10th March 2024. The meeting will cover the annual report, financial statements, and future strategies.",
+      "image": "agm_invite.jpg",
+      "htmlText": "<h1>Annual General Meeting 2024</h1><p>All <strong>shareholders</strong> are invited to the AGM which will be held on <span style='color:blue;'>10th March 2024</span>.</p>",
+      "refId": "ANN002"
+    },
+    {
+      "title": "New Product Launch",
+      "summary": "Introducing our latest product innovation.",
+      "publishedDate": "2024-01-10",
+      "postedBy": "Product Development Team",
+      "content": "We are thrilled to introduce our latest product, designed to revolutionize the industry. Stay tuned for the official launch event details.",
+      "image": "product_launch.jpg",
+      "htmlText": "<p>Introducing our <strong>latest product</strong>, designed to <em>revolutionize</em> the industry.</p>",
+      "refId": "ANN003"
+    },
+    {
+      "title": "Sustainability Report 2023",
+      "summary": "Our commitment to sustainability and environmental responsibility.",
+      "publishedDate": "2024-01-05",
+      "postedBy": "Sustainability Department",
+      "content": "Our annual sustainability report for 2023 is now available, highlighting our efforts and commitments towards environmental responsibility and sustainable business practices.",
+      "image": "sustainability_report.jpg",
+      "htmlText": "<p>Our <strong>annual sustainability report</strong> for 2023 highlights our efforts towards <em>environmental responsibility</em>.</p>",
+      "refId": "ANN004"
+    },
+    {
+      "title": "Employee Wellness Program",
+      "summary": "Launch of a new wellness program for our employees.",
+      "publishedDate": "2024-01-01",
+      "postedBy": "Human Resources",
+      "content": "We are excited to launch a new wellness program aimed at enhancing the health and well-being of our employees. The program includes various health and fitness activities.",
+      "image": "wellness_program.jpg",
+      "htmlText": "<p>We are <strong>excited</strong> to launch a <em>new wellness program</em> aimed at enhancing the health and well-being of our employees.</p>",
+      "refId": "ANN005"
+    }
+  ]
+}
