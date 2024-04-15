@@ -1,0 +1,94 @@
+{
+  "announcements": [
+    {
+      "title": "MIC Season 3 Demo Day",
+      "summary": "Join us on 15 April for MIC Season 3 Demo Day.",
+      "published_date": "2024-04-05",
+      "posted_by": "Yvonne Yw NG, The Made-In-CPF Programme",
+      "content": {
+        "image": "https://example.com/image1.jpg",
+        "html_text": ""
+      }
+    },
+    {
+      "title": "GenAI Hackathon",
+      "summary": "Calling GenAI adventurers of all skill levels!",
+      "published_date": "2024-04-04",
+      "posted_by": "Pearlyn CHUA, GenAI Core Team",
+      "content": {
+        "image": "https://example.com/image2.jpg",
+        "html_text": "<p>Whether you're keen to try your hand at basic prompt engineering for a good cause ...</p>"
+      }
+    },
+    {
+      "title": "[SRC] PUBLIC SERVICE SCRABBLE COMPETITION 2024",
+      "summary": "",
+      "published_date": "2024-04-03",
+      "posted_by": "Jerry TAY, SRC",
+      "content": {
+        "image": "https://example.com/image3.jpg",
+        "html_text": ""
+      }
+    },
+    {
+      "title": "CPF Board Games Night",
+      "summary": "Unwind and strategize at the CPF Board Games Night.",
+      "published_date": "2024-05-01",
+      "posted_by": "Munirah ALI, CPF Community Relations",
+      "content": {
+        "image": "https://example.com/image4.jpg",
+        "html_text": "Bring your best game face to CPF's monthly Board Games Night on 10 May. ... Light refreshments provided."
+      }
+    },
+    {
+      "title": "CPF Innovators Challenge",
+      "summary": "Innovate for impact in our CPF Innovators Challenge.",
+      "published_date": "2024-04-20",
+      "posted_by": "Hafiz SULAIMAN, CPF Innovation Hub",
+      "content": {
+        "image": "https://example.com/image5.jpg",
+        "html_text": "Do you have an idea that could revolutionize public service? Submit your proposal by 30 April ..."
+      }
+    },
+    {
+      "title": "Green Week: CPF Goes Eco!",
+      "summary": "Join the movement during our Green Week initiatives.",
+      "published_date": "2024-04-22",
+      "posted_by": "Siti KHADIJAH, CPF Sustainability Wing",
+      "content": {
+        "image": "https://example.com/image6.jpg",
+        "html_text": "CPF's Green Week kicks off on 5 May! Participate in eco-workshops, a clothing swap, ..."
+      }
+    },
+    {
+      "title": "CPF Fitness Fiesta",
+      "summary": "Get active and healthy with the CPF Fitness Fiesta.",
+      "published_date": "2024-05-15",
+      "posted_by": "Raj KUMAR, CPF Health & Wellness",
+      "content": {
+        "image": "https://example.com/image7.jpg",
+        "html_text": "Step up to a healthier you at the CPF Fitness Fiesta on 25 May. From yoga sessions to high-energy Zumba, ..."
+      }
+    },
+    {
+      "title": "CPF Culinary Week",
+      "summary": "Savour the flavours at CPF Culinary Week.",
+      "published_date": "2024-05-20",
+      "posted_by": "Aishah LIM, CPF Events",
+      "content": {
+        "image": "https://example.com/image8.jpg",
+        "html_text": "Explore a world of tastes at CPF Culinary Week from 1 June. Cooking classes, food stalls, and a chef's competition await."
+      }
+    },
+    {
+      "title": "CPF Cultural Festival",
+      "summary": "Celebrate diversity at the CPF Cultural Festival.",
+      "published_date": "2024-06-01",
+      "posted_by": "Kumar SINGH, CPF Diversity and Inclusion",
+      "content": {
+        "image": "https://example.com/image9.jpg",
+        "html_text": "Join us on 15 June for a day filled with cultural performances, workshops, and art displays. A perfect event to celebrate the rich tapestry of our community."
+      }
+    }
+  ]
+}
