@@ -46,7 +46,7 @@
       "published_date": "2024-05-15",
       "posted_by": "Raj KUMAR, CPF Health & Wellness",
       "content": {
-        "image": "https://example.com/image7.jpg",
+        "image": "https://raw.githubusercontent.com/mrafsyam/test-repo/main/5-fitness.png",
         "html_text": "Step up to a healthier you at the CPF Fitness Fiesta on 25 May. From yoga sessions to high-energy Zumba, ..."
       }
     },
@@ -56,7 +56,7 @@
       "published_date": "2024-05-20",
       "posted_by": "Aishah LIM, CPF Events",
       "content": {
-        "image": "https://example.com/image8.jpg",
+        "image": "https://raw.githubusercontent.com/mrafsyam/test-repo/main/6-culinary.png",
         "html_text": "Explore a world of tastes at CPF Culinary Week from 1 June. Cooking classes, food stalls, and a chef's competition await."
       }
     }
